@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Poloniex Tickers
+
+  Created by Андрей Раевнёв on 01/10/2018.
+  Copyright © 2018 venvear. All rights reserved.
+*/
+
+"error" = "Error";
+"load_error" = "Failed to load data.";
+"empty_data" = "No data\nPlease try again";
+"tickers" = "Tickers";
+"about" = "About";
+"coin" = "Coin";
+"price" = "Price";
+"highest_bid" = "HighestBid";
+"version" = "version";
